@@ -1,0 +1,11 @@
+Enter no.of teams: 5
+Enter teams: 
+India
+Bangladesh
+Afghanistan
+Pakistan
+Srilanka
+[India, Bangladesh, Afghanistan, Pakistan, Srilanka]
+[[India Vs Bangladesh], [India Vs Afghanistan], [India Vs Pakistan], [India Vs Srilanka], [Bangladesh Vs Afghanistan], [Bangladesh Vs Pakistan], [Bangladesh Vs Srilanka], [Afghanistan Vs Pakistan], [Afghanistan Vs Srilanka], [Pakistan Vs Srilanka]]
+[[Bangladesh, India], [Afghanistan, India], [Pakistan, India], [Srilanka, India], [Bangladesh, Afghanistan], [Bangladesh, Pakistan], [Srilanka, Bangladesh], [Afghanistan, Pakistan], [Srilanka, Afghanistan], [Srilanka, Pakistan]]
+[[Bangladesh, India], [Afghanistan, Pakistan], [Afghanistan, India], [Bangladesh, Pakistan], [Pakistan, India], [Bangladesh, Afghanistan], [Srilanka, India], [Srilanka, Bangladesh], [Srilanka, Afghanistan], [Srilanka, Pakistan]]
